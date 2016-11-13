@@ -52,7 +52,8 @@ def travel():
     else:
         print "Out of fuel"
 
-
+# Print instructions
+print "Press Space to Travel to a new Galaxy!"
 while True:
 
     pygame.display.update()
